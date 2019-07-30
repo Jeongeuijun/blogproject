@@ -25,7 +25,7 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 'x=sm40m3iodpwm7v)a*7b79y-egr$2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*','aqueous-journey-12075.herokuapp.com/']
 
 
 # Application definition
