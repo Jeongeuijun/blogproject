@@ -10,7 +10,7 @@ grequests==0.3.0
 gunicorn==19.9.0
 idna==2.8
 lxml==4.3.0
-Pillow==5.4.1
+Pillow==8.2.0
 psycopg2-binary==2.7.7
 pycparser==2.19
 pytz==2018.7
